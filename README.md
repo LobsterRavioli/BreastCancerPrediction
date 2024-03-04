@@ -7,9 +7,9 @@
 
 | Team Members                                            |
 |---------------------------------------------------------|
+| [Tommaso Sorrentino](https://github.com/LobsterRavioli) |
 | [Dario Mazza](https://github.com/xDaryamo)              |
 | [Nicolò Delogu](https://github.com/XJustUnluckyX)       |
-| [Tommaso Sorrentino](https://github.com/LobsterRavioli) |
 
 ## Documentazione
 * È possibile trovare la documentazione relativa al progetto nella cartella docs, può essere immediatamente visualizzata al seguente [link](../BreastCancerPrediction/docs/ProgettoFIA.pdf).
