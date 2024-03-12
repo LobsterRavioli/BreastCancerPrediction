@@ -12,7 +12,7 @@
 | [Nicolò Delogu](https://github.com/XJustUnluckyX)       |
 
 ## Documentazione
-* È possibile trovare la documentazione relativa al progetto nella cartella docs, può essere immediatamente visualizzata al seguente [link](../BreastCancerPrediction/docs/ProgettoFIA.pdf).
+* È possibile trovare la documentazione relativa al progetto nella cartella docs.
 
 ## Guida per l'esecuzione locale
 
